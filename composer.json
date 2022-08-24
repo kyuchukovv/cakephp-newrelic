@@ -24,12 +24,12 @@
     "irc":"irc://irc.freenode.org/friendsofcake"
   },
   "require": {
-    "cakephp/cakephp": "~3.0",
+    "cakephp/cakephp": "~4.0",
     "cakephp/plugin-installer": "*"
   },
   "require-dev": {
     "cakephp/cakephp-codesniffer": "dev-master",
-    "phpunit/phpunit": "4.1.*"
+    "phpunit/phpunit": "~6.0"
   },
   "autoload": {
     "psr-4": {
